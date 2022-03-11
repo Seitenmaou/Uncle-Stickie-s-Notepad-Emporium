@@ -1,25 +1,57 @@
 #classic {
-
+    padding: 1em;
+    font-weight: bold;
+    text-align: justify;
 }
 
 #modern {
-
+    background-color: rgb(251, 215, 2);
+    padding: 1em;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 #impact {
-
+    background-color: rgb(144, 238, 144);
+    padding: 1em;
+    border-style: double;
+    border-color: black;
+    border-width: 1em;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 #elise {
-
+    background-color: rgb(254, 250, 240);
+    padding: 1em;
+    border: 0.5em groove rgb(250, 235, 215);
+    text-align: center;
+    font-family: 'Monotype Corsiva','Apple Chancery','ITC Zapf Chancery','URW Chancery L',cursive;
 }
 
 #one, #two  {
-
+    display:inline-block;
+    margin: 6em 2em;
+    padding: 1em;
+    background-color: rgb(126, 254, 212);
+    border: 8px ridge rgb(87,206,209);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 #gaudi {
-
+    background-color: rgb(244,160,122);
+    padding: 1em;
+    text-align: center;
+    border-bottom-left-radius: 3em;
+    border-top-right-radius: 3em;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
 }
 
 
